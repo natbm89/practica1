@@ -4,3 +4,5 @@ verde
 amarillo 
 naranja
 morado
+rosa
+
